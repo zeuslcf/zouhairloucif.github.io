@@ -26,6 +26,12 @@ $(document).ready(function () {
       detail: 'With our strong experience we provide you with solutions to develop and programming sites modern and high quality and speed and safe as we provide you applications running on Android and iOS and we can create additions to the Prestashop.',
       link: 'https://www.goalstimed.com'
     },
+    shops4u: {
+      title: 'Shops4U',
+      tag: 'Marketplace Platform SaaS Application',
+      detail: 'The main objectives of this project are numerous, the possibility of launching your e-commerce project with simple steps, the possibility of delivering our products in a virtual store accessible to all, of facilitating commercial transactions and the delivery of product tracking on site.',
+      link: 'http://app.shops4u.cf'
+    },
     // never: {
     //   title: 'NeverSurrender',
     //   tag: 'ALS AWARENESS.',
