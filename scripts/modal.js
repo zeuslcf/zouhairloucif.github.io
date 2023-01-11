@@ -26,22 +26,36 @@ $(document).ready(function () {
       detail: 'With our strong experience we provide you with solutions to develop and programming sites modern and high quality and speed and safe as we provide you applications running on Android and iOS and we can create additions to the Prestashop.',
       link: 'https://www.goalstimed.com'
     },
-    shops4u: {
-      title: 'Shops4U',
-      tag: 'Marketplace Platform SaaS Application',
-      detail: 'The main objectives of this project are numerous, the possibility of launching your e-commerce project with simple steps, the possibility of delivering our products in a virtual store accessible to all, of facilitating commercial transactions and the delivery of product tracking on site.',
-      link: 'http://app.shops4u.cf'
+    h5p: {
+      title: 'H5P',
+      tag: 'A plugin enabling publishing systems to create more interactive content.',
+      detail: 'H5P makes it easy for everyone to create and share interactive content with a great user experience for both the content creators and the content consumers. An exponentially growing number of websites in the world use H5P to provide their users with great content. H5P may be plugged in to existing publishing systems like Canvas, Brightspace or WordPress and empower the users of these systems to create better content faster.',
+      link: 'https://h5p.group'
     },
-    // never: {
-    //   title: 'NeverSurrender',
-    //   tag: 'ALS AWARENESS.',
-    //   detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
-    // },
-    // themall: {
-    //   title: 'The Mall',
-    //   tag: 'PEER GUIDED SHOPPING.',
-    //   detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
-    // }
+    mia: {
+      title: 'MIA',
+      tag: 'AI that Predict risks, reduces loss, manages staff, customer loyalty or scoring',
+      detail: 'Both an expert and a publisher, Digitalent supports companies in optimizing their performance through data processing. Digitalent is also the publisher of the MIA solution, a no-code artificial intelligence platform.',
+      link: 'https://digitalent.ai/',
+    },
+    blinki: {
+      title: 'BLINKI',
+      tag: 'Reservation Platform',
+      detail: 'Blinki Paris is a network of 8 beauty instituts with digitalized systems for reservation.',
+      link: 'https://blinki.fr/',
+    },
+    blinkimarket: {
+      title: 'BLINKI MARKET',
+      tag: 'E-commerce Platform',
+      detail: 'Blinki Marketplace is an e-commerce application for beauty products which is interconnected with Blinki through fidelity points system.',
+      link: 'https://www.blinki-market.fr/',
+    },
+    kdi: {
+      title: 'Kongsberg Digital',
+      tag: 'Operate your assets Smarter, Safer and GreenerOPERATE YOUR ASSETS SMARTER, SAFER AND GREENER',
+      detail: 'Digitalizing the worlds industries, generating exceptional impact and value for our customers. And together we are creating a better tomorrow for people, business and society.',
+      link: 'https://www.kongsbergdigital.com/',
+    }
   };
 
   $('#gallery .button').on('click', function () {
